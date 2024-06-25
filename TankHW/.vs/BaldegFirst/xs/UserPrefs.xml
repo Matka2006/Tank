@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{94F2BB58-F737-7652-56B0-2F9353C09D88}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Prefabs/StartLevel/TwoSidedShader.shader">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Prefabs/StartLevel/TwoSidedShader.shader" Line="7" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaldegFirst" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Prefabs" expanded="True">
+                <Node name="StartLevel" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f6d224b6-fc65-42b7-b86a-3fab746935f4" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
